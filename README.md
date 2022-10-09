@@ -1,5 +1,5 @@
 # Chineselist
-[Chineselist](https://groups.google.com/g/chineselist) 是在芬华人的 **开放** 信息发布平台，用来 **补充** 微信群和公众号信息发布的 **限制** 。
+[Chineselist](https://groups.google.com/g/chineselist) 是在芬华人的 **开放** 信息发布平台，用来 **补充** 微信群和公众号信息发布的 **平台限制** 。
 
 ## 微信群限制
 
